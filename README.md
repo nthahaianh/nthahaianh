@@ -1,8 +1,8 @@
 
 <h1 align="center">Hello, I'm Hai Anh</h1>
-+
 - 👀 I’m interested in reading books and travelling
 - 🌱 I’m currently learning ASP.NET
+<p> I hope have the opportunity to work in a dynamic technology environment</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
