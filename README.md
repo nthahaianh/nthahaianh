@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @nthahaianh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <h1 align="center">Hello, I'm Hai Anh</h1>
+- 👀 I’m interested in reading books and travelling
+- 🌱 I’m currently learning ASP.NET
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/facebook.com/haianh1305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/haianh1305" height="30" width="40" /></a>
